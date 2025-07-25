@@ -30,7 +30,7 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "nan": "~2.14.2",
-    "node1-libxmljsmt-myh": "1.0.8"
+    "libxmljs": "0.19.10"
   },
   "devDependencies": {
     "async": "~3.2.0",
